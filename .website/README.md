@@ -1,4 +1,8 @@
 ---
+genres:
+  - simulation
+  - management
+  - music
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
